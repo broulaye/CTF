@@ -8,7 +8,7 @@
 <div id="main-content">
 
   <div id="home">
-    <h1>Welcome to Globitek!</h1>
+    <h1>Welcome to </h1>
 
     <p style="width: 500px;">
       Globitek is a world-wide industry leader with many award-winning products which have become well-known household names. Our staff of experts are dedicated to finding synergies across a wide variety of vertical markets and integrating technology into everyday life.
